@@ -1,0 +1,4 @@
+c:\users\asus\documents\visual studio 2010\Projects\Practical-2\Practical-2\bin\Debug\Practical-2.exe
+c:\users\asus\documents\visual studio 2010\Projects\Practical-2\Practical-2\bin\Debug\Practical-2.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Practical-2\Practical-2\obj\x86\Debug\Practical-2.exe
+c:\users\asus\documents\visual studio 2010\Projects\Practical-2\Practical-2\obj\x86\Debug\Practical-2.pdb
